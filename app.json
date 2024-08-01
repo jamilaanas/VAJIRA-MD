@@ -1,8 +1,8 @@
 {
-  "name": "VAJIRA-MD",
-  "description": "VAJIRA-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻",
-  "logo": "https://telegra.ph/file/235d945df230d71f246b6.jpg",
-  "keywords": ["vajiramd", "bot", "whatsapp bot", "multi device", "vajira-md"],
+  "name": "HSVXDX",
+  "description": "HSVXDX has been designed to make things easier and fun while using WhatsApp. 👨‍💻",
+  "logo": "https://telegra.ph/file/48e22d72d6efcc2fd95a1.jpg",
+  "keywords": ["HSVXDX", "bot", "whatsapp bot", "multi device", "HSVXDX"],
   "success_url": "/",
 
   "env": {
@@ -19,7 +19,7 @@
     "OWNER_NUMBER": {
             "description": "Put here your number without +",
             "required": true,
-            "value": "947xxxxxxxx"
+            "value": "212xxxxxxxx"
         },
     "POSTGRESQL_URL": {
             "description": "Put here postgresql url",
